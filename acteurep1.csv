@@ -1,0 +1,33 @@
+Acteur;Personnage;type_personnage;num_episode;personage_mort;role_personnage
+Ben McKenzie ; James Gordon;Principal;1;False;Inspeteur de police
+Sean Pertwee ; Alfred Pennyworth;Principal;1;False;majordome
+Robin Lord Taylor ; Oswald Cobblepot;Principal;1;False;boy de la malfrate
+Zabryna Guevara ; Sarah Essen;Principal;1;False;Capitaine de police
+Erin Richards ; Barbara Kean;Principal;1;False;femme de james gordon
+Donal Logue ; Harvey Bullock;Principal;1;False;Inspeteur de police
+Jada Pinkett Smith ; Fish Mooney;Principal;1;False;Criminel
+David Mazouz ; Bruce Wayne;Principal;1;False;Scenariste
+Camren Bicondova ; Selina Kyle;Principal;1;False;Voleuse
+Victoria Cartagena ; Renée Montoya;Recurrent;1;False;Inspectice de Police
+Andrew Stewart-Jones;Crispus Allen;Recurrent;1;False;Inspectice de Police
+Clare Foley;Ivy Pepper;Recurrent;1;False;Criminel
+Cory Michael Smith;Edward Nygma;Recurrent;1;False;Legiste
+Drew Powell;Butch Gilzean;Recurrent;1;False;Policier
+John Doman;Carmine Falcone;Recurrent;1;False;Gangster
+Agent Tenenbaum;Agent Tenenbaum;Secondaire;1;True;Policier
+Grayson McCouch ; Thomas Wayne;Secondaire;1;True;Victime
+Brette Taylor ; Martha Wayne;Secondaire;1;False;Victime
+Daniel Stewart Sherman ; Mario Pepper;Secondaire;1;False;Femme de Ivy Pepper
+Polly Lee ; Alice Pepper;Secondaire;1;False;Fille de Ivy Pepper
+Danny Schoch ; l'homme masqué;Secondaire;1;False;Criminel
+Richard Kind ; Maire Aubrey James;Secondaire;1;False;Maire
+Nom_acteur,Prenom_acteur,Nom_personnage,Prenom_personnage
+McKenzie,Ben,McKenzie,Ben
+Pertwee,Sean,Pertwee,Sean
+Taylor,Robin,Taylor,Robin
+Guevara,Zabryna,Guevara,Zabryna
+Richards,Erin,Richards,Erin
+Logue,Donal,Logue,Donal
+Smith,Jada,Smith,Jada
+Mazouz,David,Mazouz,David
+Bicondova,Camren,Bicondova,Camren
